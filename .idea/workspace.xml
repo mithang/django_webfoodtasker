@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec1e11d5-9724-4c05-944a-7e7cb090bd14" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/foodtasker-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/foodtasker-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodtasker/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/foodtasker/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodtasker/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/foodtasker/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodtasker/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/foodtasker/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodtaskerapp/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/foodtaskerapp/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodtaskerapp/templates/base_signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/foodtaskerapp/templates/base_signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>name</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../venv/lib/python3.5/site-packages/rest_framework_social_oauth2/oauth2_grants.py" />
+        <option value="$PROJECT_DIR$/../venv/lib/python3.5/site-packages/rest_framework_social_oauth2/backends.py" />
+        <option value="$PROJECT_DIR$/foodtasker/settings.py" />
+        <option value="$PROJECT_DIR$/foodtasker/urls.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="828" />
+  </component>
+  <component name="ProjectId" id="2PDqHZNY4Wd6mkgN2TcdH2X58Yu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="foodtasker-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foodtasker-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foodtasker-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="foodtasker-master" type="Python.DjangoServer" factoryName="Django server">
+      <module name="foodtasker-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="foodtasker.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8100" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec1e11d5-9724-4c05-944a-7e7cb090bd14" name="Default" comment="" />
+      <created>1547259280682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547259280682</updated>
+      <workItem from="1558695680135" duration="1806000" />
+      <workItem from="1561697387869" duration="196000" />
+      <workItem from="1561736549012" duration="4185000" />
+      <workItem from="1561741443674" duration="2086000" />
+      <workItem from="1561745049891" duration="96000" />
+      <workItem from="1561745285286" duration="1547000" />
+      <workItem from="1572716270760" duration="3396000" />
+      <workItem from="1683001927755" duration="7642000" />
+      <workItem from="1683042718007" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13312000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="828" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2932761" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42119566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32880434" />
+      <window_info anchor="bottom" id="manage.py@foodtasker-master" order="7" visible="true" weight="0.5679348" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.61413044" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32880434" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32880434" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
+      <window_info anchor="right" id="SciView" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27896994" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42119566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="manage.py@foodtasker-master" order="7" visible="true" weight="0.32880434" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32880434" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32980132" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
+      <window_info anchor="right" id="SciView" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.5/site-packages/rest_framework_social_oauth2/oauth2_backends.py" />
+    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.5/site-packages/rest_framework_social_oauth2/backends.py" />
+    <entry file="file://$PROJECT_DIR$/runtime.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.5/site-packages/rest_framework_social_oauth2/oauth2_grants.py" />
+    <entry file="file://$PROJECT_DIR$/foodtaskerapp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1021">
+          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodtaskerapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.5/site-packages/social_core/utils.py" />
+    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.5/site-packages/social_core/pipeline/mail.py" />
+    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.5/site-packages/social_core/pipeline/social_auth.py" />
+    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.5/site-packages/social_core/pipeline/debug.py" />
+    <entry file="file://$PROJECT_DIR$/foodtaskerapp/social_auth_pipeline.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../venv1/lib/python3.5/site-packages/django/template/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodtasker/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodtasker/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../venv1/lib/python3.5/site-packages/django/db/models/fields/related_descriptors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="413" selection-start-line="413" selection-end-line="413" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

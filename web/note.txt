@@ -1,0 +1,4 @@
+User: admin , Pass: Admin123456
+User: lan , Pass: 123456!@#
+
+Thong tin source mobile tim tren git: Foodtasker-swift,FoodTasker1,FoodTasker2,FoodTasker3
